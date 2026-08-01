@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+
+# --- Large, regenerable data (NOT released; see README to rebuild) ---
+data/beir/          # raw BEIR corpora (download via scripts/01_download_beir.py)
+data/indexes/       # BM25 indexes (rebuild via scripts/02_build_bm25_index.py)
+data/retrieval/     # BM25 top-100 hits (rebuild via scripts/03_bm25_retrieve.py)
+data/trecdl/*.gz    # raw TREC DL top-1000 pools (re-download)
+data/trecdl/*.txt   # raw TREC DL qrels (re-download)
+
+# --- Released artifacts ARE tracked (whitelisted; see README) ---
+#   data/scores/**/*.parquet         scored query-document pairs (logits + labels)
+#   data/calibration/*.csv, *.json   metrics + fitted calibrators
+#   data/trecdl/*.parquet            built TREC DL scoring inputs
+#   data/figures/*.png               paper figures
+
+# --- LaTeX build products & local preview scaffolding (not for release) ---
+paper/build/
+paper/*.pdf
+paper/sn-jnl-preview.cls
+paper/_preview.tex
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+
+# --- Internal planning drafts (not for release) ---
+PAPER_BLUEPRINT.md
+CalRank_ A Calibration Benchmark for Cross-Encoder Re-Rankers.md
+
+# --- Logs ---
+run_full.log
+*.log
+
+# --- Overleaf package (regenerable) ---
+*.zip

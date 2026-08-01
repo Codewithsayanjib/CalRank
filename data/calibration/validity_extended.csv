@@ -1,0 +1,12 @@
+dataset,n_judged,prevalence,n_neg,n_minority,valid
+trec-dl-2020,5686,0.16865986633837496,4727,959,True
+dbpedia-entity,9182,0.34698322805489,5996,3186,True
+trec-dl-2019,4612,0.34952298352124894,3000,1612,True
+trec-covid,3475,0.6241726618705036,1306,1306,True
+webis-touche2020,635,0.7795275590551181,140,140,True
+scidocs,1774,0.9487034949267192,91,91,False
+arguana,1316,1.0,0,0,False
+fiqa,756,1.0,0,0,False
+nfcorpus,1941,1.0,0,0,False
+quora,1278,1.0,0,0,False
+scifact,298,1.0,0,0,False

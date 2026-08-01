@@ -1,0 +1,10 @@
+K,P,n_valid,valid_set
+50,0.85,5,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020,webis-touche2020"
+50,0.9,5,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020,webis-touche2020"
+50,0.95,6,"dbpedia-entity,scidocs,trec-covid,trec-dl-2019,trec-dl-2020,webis-touche2020"
+100,0.85,5,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020,webis-touche2020"
+100,0.9,5,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020,webis-touche2020"
+100,0.95,5,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020,webis-touche2020"
+150,0.85,4,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020"
+150,0.9,4,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020"
+150,0.95,4,"dbpedia-entity,trec-covid,trec-dl-2019,trec-dl-2020"

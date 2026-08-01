@@ -1,0 +1,237 @@
+{
+  "minilm-l6": {
+    "trec-covid": {
+      "temperature": 4.401586567504006,
+      "platt_coef": 0.23242603864644518,
+      "platt_intercept": -0.04190625023661549
+    },
+    "nfcorpus": {
+      "temperature": 19.999993094073297,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "fiqa": {
+      "temperature": 4.357042417431871,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scifact": {
+      "temperature": 5.565333843160106,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "arguana": {
+      "temperature": 19.999995981181453,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scidocs": {
+      "temperature": 19.999995541733057,
+      "platt_coef": 0.26799832516808064,
+      "platt_intercept": 3.8384317141770223
+    },
+    "webis-touche2020": {
+      "temperature": 4.826696835834579,
+      "platt_coef": 0.1420866285183288,
+      "platt_intercept": 1.0126845004653973
+    },
+    "quora": {
+      "temperature": 1.1282405082590117,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "dbpedia-entity": {
+      "temperature": 5.831676149604897,
+      "platt_coef": 0.3393851885280135,
+      "platt_intercept": -1.522885699882511
+    }
+  },
+  "minilm-l12": {
+    "trec-covid": {
+      "temperature": 4.83742580325122,
+      "platt_coef": 0.247211055838153,
+      "platt_intercept": -0.29758322786865604
+    },
+    "nfcorpus": {
+      "temperature": 19.999996219051077,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "fiqa": {
+      "temperature": 2.8052850434757195,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scifact": {
+      "temperature": 4.297429372449395,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "arguana": {
+      "temperature": 2.4285875716521543,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scidocs": {
+      "temperature": 19.99999476738354,
+      "platt_coef": 0.264349500446382,
+      "platt_intercept": 3.722144920413919
+    },
+    "webis-touche2020": {
+      "temperature": 3.9736120170810643,
+      "platt_coef": 0.17339948037498767,
+      "platt_intercept": 0.7223074881095674
+    },
+    "quora": {
+      "temperature": 1.109156709356754,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "dbpedia-entity": {
+      "temperature": 6.588227321871549,
+      "platt_coef": 0.3323771370195872,
+      "platt_intercept": -1.6062430038114683
+    }
+  },
+  "tinybert-l2": {
+    "trec-covid": {
+      "temperature": 6.475646724716709,
+      "platt_coef": 0.15512254116667146,
+      "platt_intercept": -0.007653151028564015
+    },
+    "nfcorpus": {
+      "temperature": 19.99999309523735,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "fiqa": {
+      "temperature": 15.871785490214364,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scifact": {
+      "temperature": 6.265832162784695,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "arguana": {
+      "temperature": 19.9999929291421,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scidocs": {
+      "temperature": 19.999995608922546,
+      "platt_coef": 0.24169412177119334,
+      "platt_intercept": 3.891019616722857
+    },
+    "webis-touche2020": {
+      "temperature": 11.081018535208347,
+      "platt_coef": 0.06624011357845667,
+      "platt_intercept": 1.210701634334203
+    },
+    "quora": {
+      "temperature": 2.10534855898917,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "dbpedia-entity": {
+      "temperature": 6.746783442562571,
+      "platt_coef": 0.22769142999937725,
+      "platt_intercept": -1.1194886680096385
+    }
+  },
+  "bge-reranker": {
+    "trec-covid": {
+      "temperature": 4.386437874427812,
+      "platt_coef": 0.21912663985957764,
+      "platt_intercept": 0.08129495223731976
+    },
+    "nfcorpus": {
+      "temperature": 19.999993151130507,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "fiqa": {
+      "temperature": 19.99999520834948,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scifact": {
+      "temperature": 11.683575660149751,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "arguana": {
+      "temperature": 8.696155581352686,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scidocs": {
+      "temperature": 19.99999322022611,
+      "platt_coef": 0.4425138323060994,
+      "platt_intercept": 5.031795808173857
+    },
+    "webis-touche2020": {
+      "temperature": 6.780392364206288,
+      "platt_coef": 0.15123323082721482,
+      "platt_intercept": 1.2777570967613123
+    },
+    "quora": {
+      "temperature": 1.095480621645755,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "dbpedia-entity": {
+      "temperature": 2.9622343874480865,
+      "platt_coef": 0.3345865241683539,
+      "platt_intercept": -0.6367825352404972
+    }
+  },
+  "electra-base": {
+    "trec-covid": {
+      "temperature": 4.770323497177745,
+      "platt_coef": 0.20961661889822047,
+      "platt_intercept": 0.00011720469419250522
+    },
+    "nfcorpus": {
+      "temperature": 19.999993323785407,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "fiqa": {
+      "temperature": 19.999993586232193,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scifact": {
+      "temperature": 5.377145892220841,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "arguana": {
+      "temperature": 1.3124367443001308,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "scidocs": {
+      "temperature": 19.999995547368858,
+      "platt_coef": 0.24245017872543864,
+      "platt_intercept": 3.739877471303263
+    },
+    "webis-touche2020": {
+      "temperature": 6.095302117099755,
+      "platt_coef": 0.20034372875558712,
+      "platt_intercept": 1.4454660196541014
+    },
+    "quora": {
+      "temperature": 19.9999949109852,
+      "platt_coef": NaN,
+      "platt_intercept": NaN
+    },
+    "dbpedia-entity": {
+      "temperature": 6.840410896772551,
+      "platt_coef": 0.19065156876694808,
+      "platt_intercept": -0.7382776142774455
+    }
+  }
+}

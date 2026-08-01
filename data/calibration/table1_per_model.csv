@@ -1,0 +1,6 @@
+model,mean_raw_ece,mean_temp_ece,mean_iso_ece,mean_T,temp_n_improved,iso_n_improved
+bge-reranker,0.394,0.3251,0.009,10.6227,5,9
+electra-base,0.3859,0.3427,0.0118,11.5995,5,9
+minilm-l12,0.292,0.2795,0.0127,7.3377,5,9
+minilm-l6,0.3588,0.3221,0.0124,9.5678,6,9
+tinybert-l2,0.4085,0.3407,0.011,12.0607,6,9
