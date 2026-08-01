@@ -63,9 +63,7 @@ data/
   beir/, indexes/, retrieval/           NOT released (large; regenerate, see below)
 paper/
   calrank_fire.tex                      FIRE conference version (ACM sigconf)
-  calrank_sncs.tex                      SN Computer Science version
   calrank.bib                           shared bibliography
-  TEACHING_GUIDE.tex                    ground-up explanation of the project
 ```
 
 ## Released artifacts
